@@ -36,6 +36,7 @@
   <div align="left">
     I'm Hieu from Viet Nam 🇻🇳<br>
     - I'm working as a developer, currently focusing on Python and ReactJS, building cool things every day.<br>
+    - I have experience developing SaaS platforms, particularly in designing modern backend architectures (DDD, modular monolithic), implementing authentication and authorization systems, integrating APIs, and optimizing CI/CD pipelines.<br>
     - I'm currently learning more about AWS ☁️, and diving deeper into best practices for secure coding<br>
     - In my free time I enjoy experimenting with new tech, playing around with domain management, and occasionally binge-watching a good series. I also tend to work on side projects just for the fun of it!<br>
     Hope this sounds like you! Let me know if you'd like to adjust it!
